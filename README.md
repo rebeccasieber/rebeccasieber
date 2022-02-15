@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebeccasieber
 - 👀 I’m interested in programming and data science.
-- 🌱 I’m currently learning JavaFx GUI and strenghtening my skills in secure software development.
+- 🌱 I’m currently learning SQL and the fundamentals of Database Design and Development.
 - 📫 How to reach me: rebecca.sieber@gmail.com
 
 <!---
