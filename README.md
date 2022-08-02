@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebeccasieber
 - 👀 I’m interested in programming and data science.
-- 🌱 I’m currently learning Tkinter.
+- 🌱 I’m currently learning AWS and Tableau.
 - 📫 How to reach me: rebecca.sieber@gmail.com
 
 <!---
